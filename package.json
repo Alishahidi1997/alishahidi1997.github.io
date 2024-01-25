@@ -1,0 +1,17 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Just about me!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ali Shahidi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
