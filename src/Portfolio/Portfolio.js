@@ -35,7 +35,7 @@ function Portfolio(){
         
         <div class="album  bg-body-tertiary">
         <div>
-        <h1 class="text-center py-5">Portfolio</h1>
+        <h3 class="text-center py-5 " style={{ fontWeight: 'bold' }}>Portfolio</h3>
         </div>
     <div class="container">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">

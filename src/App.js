@@ -3,15 +3,17 @@ import Information from './AboutMe/Information';
 import NavBar from './Header';
 import Portfolio from './Portfolio/Portfolio';
 import Footer from './Footer';
+import Achievment from './Achievments/Achievment';
 
 function App(){
     return <div>
         <NavBar />
         <Information /> 
-        <div class="bg-body-tertiary">
-            <Portfolio />
-            <Footer /> 
-        </div>
+        
+        <Portfolio />
+        <Achievment />
+        <Footer /> 
+        
     </div>
     
 }

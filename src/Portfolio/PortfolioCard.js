@@ -11,7 +11,6 @@ function PortfolioCard(props){
       placement="top"
       overlay={<Tooltip id="tooltip-top">Click to redirect to GitHub repository</Tooltip>}
     >
-
         <a href={props.githubLink} style={{ textDecoration: 'none' }} target="_blank">
         <div class="col">
           <div class="card shadow-sm">

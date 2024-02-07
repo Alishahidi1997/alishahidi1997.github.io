@@ -11,7 +11,7 @@ function Information(){
     const [userInfo, setUserData] = useState(userData);
     
 return(
-        <section class="py-sm-5 ms-5 ">
+        <section class="py-sm-5 ms-5 mt-5">
                 <div class="row">
                     <div class="col-lg-4 text-center">
                         <img class="rounded mx-auto " height={300} width={300} src={profilePic} alt="Profile Picture" />
