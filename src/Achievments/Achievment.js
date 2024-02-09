@@ -31,7 +31,7 @@ let certificate = certificates.map(function(item) {
 
 const Achievment = () => {
   return (
-    <div class="bg-dark bg-gradient">
+    <div class="bg-dark bg-gradient" id="Achievment">
     <h3 class="py-5 text-center" style={{ fontWeight: 'bold' }}>Certificates</h3>
     <Container fluid>
       <Row className="justify-content-center align-items-center ">

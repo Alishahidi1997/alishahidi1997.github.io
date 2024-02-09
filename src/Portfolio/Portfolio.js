@@ -33,17 +33,17 @@ let demos = data.map(function(item) {
 function Portfolio(){
     return(
         
-        <div class="album  bg-body-tertiary">
-        <div>
-        <h3 class="text-center py-5 " style={{ fontWeight: 'bold' }}>Portfolio</h3>
-        </div>
-    <div class="container">
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-    {demos}
-    <br/>
+        <div class="album  bg-body-tertiary py-4" id="Portfolio">
+            <div>
+                <h3 class="text-center py-3 " style={{ fontWeight: 'bold' }}>Portfolio</h3>
+            </div>
+            <div class="container">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                    {demos}
+                    <br/>
   
         
-    </div>
+        </div>
     </div> 
     </div>
     
