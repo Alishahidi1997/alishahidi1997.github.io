@@ -3,9 +3,15 @@ import PortfolioCard from "./PortfolioCard";
 import Holotype  from "../Assets/Portfolio/HoloType.jpg";
 import SpaceAttack from "../Assets/Portfolio/SpaceAttackDemo.gif";
 import RocketBoost from "../Assets/Portfolio/RocketBoost.gif";
+import ServiceApp from "../Assets/Portfolio/Services.png";
 
 const data = 
     [
+        {
+            image: ServiceApp,
+            name: "ServiceApp - Service Marketplace", 
+            githubLink: "https://github.com/Alishahidi1997/ServiceApp"
+        }, 
         {
         image: Holotype,
         name: "HoloType-AR-Based Educational Software ", 
