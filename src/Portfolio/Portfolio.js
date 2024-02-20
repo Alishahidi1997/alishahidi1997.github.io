@@ -3,7 +3,7 @@ import PortfolioCard from "./PortfolioCard";
 import Holotype  from "../Assets/Portfolio/HoloType.jpg";
 import SpaceAttack from "../Assets/Portfolio/SpaceAttackDemo.gif";
 import RocketBoost from "../Assets/Portfolio/RocketBoost.gif";
-import ServiceApp from "../Assets/Portfolio/Services.png";
+import ServiceApp from "../Assets/Portfolio/Services.jpg";
 
 const data = 
     [
@@ -47,6 +47,7 @@ function Portfolio(){
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     {demos}
                     <br/>
+                    
   
         
         </div>
