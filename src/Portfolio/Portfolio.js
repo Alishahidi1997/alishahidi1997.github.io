@@ -4,6 +4,7 @@ import Holotype  from "../Assets/Portfolio/HoloType.jpg";
 import SpaceAttack from "../Assets/Portfolio/SpaceAttackDemo.gif";
 import RocketBoost from "../Assets/Portfolio/RocketBoost.gif";
 import ServiceApp from "../Assets/Portfolio/Services.jpg";
+import RealmRush from "../Assets/Portfolio/RealmRush.gif";
 
 const data = 
     [
@@ -16,6 +17,11 @@ const data =
         image: Holotype,
         name: "HoloType-AR-Based Educational Software ", 
         githubLink: "https://github.com/Alishahidi1997/HoloType"
+    }, 
+    {
+        image: RealmRush,
+        name: "Realm Rush", 
+        githubLink: "https://github.com/Alishahidi1997/Realm-Rush/tree/main"
     }, 
     {
         image: SpaceAttack,
