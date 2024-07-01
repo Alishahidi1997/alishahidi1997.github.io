@@ -5,7 +5,8 @@ import SpaceAttack from "../Assets/Portfolio/SpaceAttackDemo.gif";
 import RocketBoost from "../Assets/Portfolio/RocketBoost.gif";
 import ServiceApp from "../Assets/Portfolio/Services.jpg";
 import RealmRush from "../Assets/Portfolio/RealmRush.gif";
-
+import poly from "../Assets/Portfolio/Poly.gif";
+import SpaceFlight from "../Assets/Portfolio/SpaceFlight.gif"
 const data = 
     [
         {
@@ -32,8 +33,17 @@ const data =
         image: RocketBoost,
         name: "Rocket Boost",
         githubLink: "https://github.com/Alishahidi1997/Rocket-Boost"
-    }
-
+    },
+    {
+    image: poly,
+    name: "PolyGame",
+    githubLink: "https://github.com/Alishahidi1997/PolyGame/tree/main"
+    },
+    {
+        image: SpaceFlight,
+        name: "SpaceFlight",
+        githubLink: "https://github.com/Alishahidi1997/Space-Flight/tree/main"
+        }
     ]
 
 

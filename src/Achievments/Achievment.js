@@ -3,7 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel, Container, Row, Col } from 'react-bootstrap';
 import UnityCertificate from "../Assets/Achievments/UnityCertificate.png";
 import WebCertificate from "../Assets/Achievments/WebCertificate.jpg";
-
+import AnimationCertificate from "../Assets/Achievments/AnimationCertificate.png";
+import UnityMobile from "../Assets/Achievments/UnityMobile.jpg";
 // import CarouselItem from './CarouselItem'; // Import your new CarouselItem component
 
 let certificates = [
@@ -14,6 +15,14 @@ let certificates = [
     {
     src: UnityCertificate,
     name: "Complete C# Unity Game Developer 3D",
+    },
+    {
+      src: AnimationCertificate,
+      name: "The Beginner's Guide to Animation in Unity",
+    },
+    {
+      src: UnityMobile,
+      name: "Unity C# Mobile Game Development: Make 3 Games From Scratch",
     }
 ]
 
