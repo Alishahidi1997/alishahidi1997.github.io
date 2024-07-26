@@ -12,7 +12,24 @@ function AboutMe(){
     return(
         <div class="col-8 align-self-center">
         <h2 style={{ fontWeight: 'bold' }}>About Me</h2>
-        <p class="lead text-muted "> {summaryAboutMe} </p>
+        <div class="lead text-muted "> 
+       
+<p>I am a software developer at Telus, specializing in developing cross-platform augmented reality applications for iOS and Meta Quest 2. With over four years of experience in Unity and C#, I have expertise in AR development, game development, and multiplayer functionalities.
+At Telus, I contributed to our application's multiplayer version using NetCode and spatial anchor functionality. I have also led projects like HoloType, a 3D interactive educational app using HoloLens 2.</p>
+
+<p>I hold certifications in:</p>
+<ul>
+    <li><strong>Programming Design Patterns For Unity: Write Better Code</strong> (July 2024)</li>
+    <li><strong>The Beginner’s Guide to Animation in Unity</strong> (June 2024)</li>
+    <li><strong>The Complete 2023 Web Development Bootcamp</strong> (January 2024)</li>
+    <li><strong>Unity C# Mobile Game Development: Make 3 Games From Scratch</strong> (October 2023)</li>
+    <li><strong>Complete C# Unity Game Developer 3D</strong> (September 2023)</li>
+</ul>
+
+<p>These certifications have expanded my skills in front-end technologies (HTML, CSS, JavaScript, React.js) and backend technologies (Node.js, Express.js, PostgreSQL). Additionally, I have enhanced my abilities in mobile gaming and VR/AR development using Unity.</p>
+
+<p>I am eager to apply my skills to innovative projects and contribute valuable insights to any team.</p>
+</div>
         <a href={ResumePath} role="button" class="btn btn-secondary" target="_blank">Download Resume</a>
          </div>
 

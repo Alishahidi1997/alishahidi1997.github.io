@@ -5,13 +5,11 @@ import UnityCertificate from "../Assets/Achievments/UnityCertificate.png";
 import WebCertificate from "../Assets/Achievments/WebCertificate.jpg";
 import AnimationCertificate from "../Assets/Achievments/AnimationCertificate.png";
 import UnityMobile from "../Assets/Achievments/UnityMobile.jpg";
+import DesignPattern from "../Assets/Achievments/DesignPattern.jpg";
 // import CarouselItem from './CarouselItem'; // Import your new CarouselItem component
 
 let certificates = [
-    {
-        src: WebCertificate, 
-        name: "The Complete 2023 Web Development Bootcamp"
-    },
+   
     {
     src: UnityCertificate,
     name: "Complete C# Unity Game Developer 3D",
@@ -23,7 +21,15 @@ let certificates = [
     {
       src: UnityMobile,
       name: "Unity C# Mobile Game Development: Make 3 Games From Scratch",
-    }
+    },
+    {
+      src: DesignPattern,
+      name: "Programming Design Patterns For Unity: Write Better Code",
+    },
+    {
+      src: WebCertificate, 
+      name: "The Complete 2023 Web Development Bootcamp"
+  }
 ]
 
 let certificate = certificates.map(function(item) {

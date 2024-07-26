@@ -6,7 +6,8 @@ import RocketBoost from "../Assets/Portfolio/RocketBoost.gif";
 import ServiceApp from "../Assets/Portfolio/Services.jpg";
 import RealmRush from "../Assets/Portfolio/RealmRush.gif";
 import poly from "../Assets/Portfolio/Poly.gif";
-import SpaceFlight from "../Assets/Portfolio/SpaceFlight.gif"
+import SpaceFlight from "../Assets/Portfolio/SpaceFlight.gif";
+import HappyBall from "../Assets/Portfolio/HappyBall.gif";
 const data = 
     [
         {
@@ -41,9 +42,14 @@ const data =
     },
     {
         image: SpaceFlight,
-        name: "SpaceFlight",
+        name: "Space Flight (Mobile Game)",
         githubLink: "https://github.com/Alishahidi1997/Space-Flight/tree/main"
-        }
+        },
+        {
+            image: HappyBall,
+            name: "Happy Ball (Mobile Game)",
+            githubLink: "https://github.com/Alishahidi1997/Happy-Ball/tree/main"
+            }
     ]
 
 

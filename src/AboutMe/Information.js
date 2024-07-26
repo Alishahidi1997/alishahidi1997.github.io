@@ -13,8 +13,8 @@ function Information(){
 return(
         <section class="py-sm-5 ms-5 mt-5" id="Information">
                 <div class="row">
-                    <div class="col-lg-4 text-center">
-                        <img class="rounded mx-auto " height={300} width={300} src={profilePic} alt="Profile Picture" />
+                    <div class="col-lg-4 text-center d-flex flex-column align-items-center justify-content-center">
+                        <img class="rounded mx-auto" height={300} width={339} src={profilePic} alt="Profile Picture" />
                         {/* <h2 class="jumbotron-heading m-2">{name}</h2> */}
                         <p style={{color:'gray'}}>{userInfo.city}</p>
                         <div class="container">
