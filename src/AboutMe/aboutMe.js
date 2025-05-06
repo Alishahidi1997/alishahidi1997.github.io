@@ -14,8 +14,9 @@ function AboutMe(){
         <h2 style={{ fontWeight: 'bold' }}>About Me</h2>
         <div class="lead text-muted "> 
        
-<p>I am a software developer at Telus, specializing in developing cross-platform augmented reality applications for iOS and Meta Quest 2. With over four years of experience in Unity and C#, I have expertise in AR development, game development, and multiplayer functionalities.
-At Telus, I contributed to our application's multiplayer version using NetCode and spatial anchor functionality. I have also led projects like HoloType, a 3D interactive educational app using HoloLens 2.</p>
+<p>I am a multidisciplinary software developer specializing in Unity, C#, and XR technologies, creating immersive AR/VR applications, games, and cross-platform solutions. With over five years of hands-on experience, I have contributed to high-impact projects in augmented reality, game development, and interactive simulations. My expertise spans real-time data processing, AI-driven systems, multiplayer functionality, and performance optimization.</p>
+
+<p>From academia to industry, I have led research in assistive XR technologies, collaborated on innovative AR projects, and developed applications for mobile, VR, and WebXR platforms. During my time at ETHEREAL Research Group, Telus, ELIXR, and Illumia, I focused on delivering scalable, high-performance applications that prioritize user engagement and cutting-edge innovation.</p>
 
 <p>I hold certifications in:</p>
 <ul>
@@ -26,9 +27,9 @@ At Telus, I contributed to our application's multiplayer version using NetCode a
     <li><strong>Complete C# Unity Game Developer 3D</strong> (September 2023)</li>
 </ul>
 
-<p>These certifications have expanded my skills in front-end technologies (HTML, CSS, JavaScript, React.js) and backend technologies (Node.js, Express.js, PostgreSQL). Additionally, I have enhanced my abilities in mobile gaming and VR/AR development using Unity.</p>
+<p>These certifications have broadened my expertise in front-end technologies (HTML, CSS, JavaScript, React.js), back-end technologies (Node.js, Express.js, PostgreSQL), and Unity-based mobile and VR/AR development.</p>
 
-<p>I am eager to apply my skills to innovative projects and contribute valuable insights to any team.</p>
+<p>If you're looking for collaboration opportunities in AR/VR or software development, feel free to send me a message!</p>
 </div>
         <a href={ResumePath} role="button" class="btn btn-secondary" target="_blank">Download Resume</a>
          </div>
