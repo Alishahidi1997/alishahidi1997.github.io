@@ -1,4 +1,5 @@
 import React from 'react';
+import { Navbar, Nav, Container } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ResumePath from "./Assets/AliShahidiResume.pdf";
 import AboutMe from './AboutMe/aboutMe';
@@ -16,35 +17,18 @@ const ScrollToSection = () => {
 };
 
 const NavBar = () => (
-  <nav className="navbar navbar-expand-md navbar-dark bg-dark fixed-top border-bottom">
-    <div className="container-fluid">
-      <a className="navbar-brand" href="#">Ali Shahidi</a>
-      <button 
-        className="navbar-toggler" 
-        type="button" 
-        data-bs-toggle="collapse" 
-        data-bs-target="#navbarNav" 
-        aria-controls="navbarNav" 
-        aria-expanded="false" 
-        aria-label="Toggle navigation"
-      >
-        <span className="navbar-toggler-icon"></span>
-      </button>
-      <div className="collapse navbar-collapse" id="navbarNav">
-        <ul className="navbar-nav ms-auto">
-          <li className="nav-item">
-            <a className="nav-link" href="#Information">About</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#Portfolio">Portfolio</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#Achievment">Certificates</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+  <Navbar expand="md" className="navbar-dark bg-dark fixed-top border-bottom">
+    <Container fluid>
+      <Navbar.Toggle aria-controls="basic-navbar-nav" />
+      <Navbar.Collapse id="basic-navbar-nav">
+        <Nav className="me-auto">
+          <Nav.Link href="#Information" style={{color:"white"}}>About</Nav.Link>
+          <Nav.Link href="#Portfolio" style={{color:"white"}}>Portfolio</Nav.Link>
+          <Nav.Link href="#Achievment" style={{color:"white"}}>Certificates</Nav.Link>
+        </Nav>
+      </Navbar.Collapse>
+    </Container>
+  </Navbar>
 );
 
 export default NavBar;
