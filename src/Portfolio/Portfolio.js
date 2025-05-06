@@ -8,6 +8,7 @@ import RealmRush from "../Assets/Portfolio/RealmRush.gif";
 import poly from "../Assets/Portfolio/Poly.gif";
 import SpaceFlight from "../Assets/Portfolio/SpaceFlight.gif";
 import HappyBall from "../Assets/Portfolio/HappyBall.gif";
+import KeyFinder from "../Assets/Portfolio/KeyFinder.gif";
 const data = 
     [
         {
@@ -49,7 +50,14 @@ const data =
             image: HappyBall,
             name: "Happy Ball (Mobile Game)",
             githubLink: "https://github.com/Alishahidi1997/Happy-Ball/tree/main"
+            },
+            
+        {
+            image: KeyFinder,
+            name: "Key Finder (Map Generation, Saving, and Loading)",
+            githubLink: "https://github.com/Alishahidi1997/KeyFinder"
             }
+    
     ]
 
 
