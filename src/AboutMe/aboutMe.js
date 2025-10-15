@@ -14,7 +14,7 @@ function AboutMe() {
         <div className="col-8 align-self-center">
             <h2 style={{ fontWeight: 'bold' }}>About Me</h2>
             <div className="lead text-muted">
-                <p>
+            <p>
                     I’m a multidisciplinary software developer passionate about creating immersive games and interactive digital experiences using Unity and C#. Over five years, I’ve built narrative-driven games, educational AR apps, and real-time multiplayer systems, prioritizing performance, accessibility, and player engagement.
                 </p>
                 <p>
