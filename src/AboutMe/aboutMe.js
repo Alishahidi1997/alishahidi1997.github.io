@@ -15,25 +15,26 @@ function AboutMe() {
             <h2 style={{ fontWeight: 'bold' }}>About Me</h2>
             <div className="lead text-muted">
             <p>
-                    I’m a multidisciplinary software developer passionate about creating immersive games and interactive digital experiences using Unity and C#. Over five years, I’ve built narrative-driven games, educational AR apps, and real-time multiplayer systems, prioritizing performance, accessibility, and player engagement.
-                </p>
-                <p>
-                    My expertise includes AI-driven systems, GPT-powered avatars, real-time data processing, and cross-platform optimization. I’ve designed server pipelines, implemented analytics, and optimized gameplay mechanics to enhance user experience across mobile, WebXR, and VR platforms.
-                </p>
-                <p>
-                    I have contributed to high-impact projects at ETHEREAL Research Group, Telus, ELIXR, and Illumia—leading assistive XR research, developing commercial AR solutions, and shipping polished applications with measurable performance improvements.
-                </p>
-                <p>I hold certifications in:</p>
-                <ul>
-                    <li><strong>Programming Design Patterns for Unity</strong> (2024)</li>
-                    <li><strong>Animation in Unity</strong> (2024)</li>
-                    <li><strong>The Complete Web Development Bootcamp</strong> (2023)</li>
-                    <li><strong>Unity Mobile Game Development</strong> (2023)</li>
-                    <li><strong>Unity 3D Game Development</strong> (2023)</li>
-                </ul>
-                <p>
-    I’m passionate about creating innovative gaming and AR/VR experiences on PC, mobile, and immersive platforms. Leveraging my experience with VR simulations, AR apps, and multiplayer systems, I combine storytelling, gameplay mechanics, and technology to deliver engaging and polished player experiences.
-</p>     </div>
+    I’m a multidisciplinary software developer passionate about creating immersive games and interactive experiences using <strong>Unreal Engine 5</strong>, <strong>Unity</strong>, <strong>C++</strong>, and <strong>C#</strong>. Over the past five years, I’ve built narrative-driven games, VR simulations, and real-time multiplayer systems, with a focus on performance, scalability, and player engagement.
+</p>
+<p>
+    My expertise spans <strong>AI-driven gameplay systems</strong>, <strong>GPT-powered avatars</strong>, <strong>real-time data pipelines</strong>, and <strong>cross-platform optimization</strong>. I’ve extended engine functionality through <strong>custom plugins</strong>, <strong>Control Rig</strong>, <strong>PCG</strong>, and <strong>Editor Utility Widgets</strong>, while also designing reusable frameworks to streamline development across PC, mobile, and VR.
+</p>
+<p>
+    I’ve contributed to high-impact projects at <strong>ETHEREAL Research Group</strong>, <strong>Telus</strong>, <strong>ELIXR</strong>, and <strong>Illumia</strong>—leading assistive XR research, developing commercial AR/VR solutions, and delivering polished applications with measurable performance improvements.
+</p>
+<p>I hold certifications in:</p>
+<ul>
+    <li><strong>Programming Design Patterns for Unity</strong> (2024)</li>
+    <li><strong>Animation in Unity</strong> (2024)</li>
+    <li><strong>The Complete Web Development Bootcamp</strong> (2023)</li>
+    <li><strong>Unity Mobile Game Development</strong> (2023)</li>
+    <li><strong>Unity 3D Game Development</strong> (2023)</li>
+</ul>
+<p>
+    I’m driven by the challenge of blending creativity and engineering to push the boundaries of real-time interaction. Whether developing scalable gameplay systems in Unreal or building cross-platform AR/VR experiences in Unity, my goal is to craft engaging, high-performance projects that inspire and immerse players.
+</p>
+</div>
             <a href={ResumePath} role="button" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
                 Download Resume
             </a>
