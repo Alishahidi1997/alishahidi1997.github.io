@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel, Container, Row, Col } from 'react-bootstrap';
 import UnityCertificate from "../Assets/Achievments/UnityCertificate.png";
+import ASPNET from "../Assets/Achievments/ASPNET.png";
 import WebCertificate from "../Assets/Achievments/WebCertificate.jpg";
 import AnimationCertificate from "../Assets/Achievments/AnimationCertificate.png";
 import UnityMobile from "../Assets/Achievments/UnityMobile.jpg";
@@ -9,7 +10,10 @@ import DesignPattern from "../Assets/Achievments/DesignPattern.jpg";
 // import CarouselItem from './CarouselItem'; // Import your new CarouselItem component
 
 let certificates = [
-   
+    {
+    src: ASPNET,
+    name: "C# .NET with MS SQL Complete Beginner to Master 2026",
+    },
     {
     src: UnityCertificate,
     name: "Complete C# Unity Game Developer 3D",
