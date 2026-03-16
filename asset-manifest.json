@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f96f07a4.css",
-    "main.js": "/static/js/main.27ccea9b.js",
+    "main.js": "/static/js/main.066dc021.js",
     "static/media/SpaceAttackDemo.gif": "/static/media/SpaceAttackDemo.1fdb7480d98cb2220efc.gif",
     "static/media/KeyFinder.gif": "/static/media/KeyFinder.2342cf12b8ca8be98d95.gif",
     "static/media/RocketBoost.gif": "/static/media/RocketBoost.69abd31a8c59678bdcec.gif",
@@ -14,16 +14,17 @@
     "static/media/UnityMobile.jpg": "/static/media/UnityMobile.f81d3ee7c1c9bf156de7.jpg",
     "static/media/DesignPattern.jpg": "/static/media/DesignPattern.59211df489f90bb87395.jpg",
     "static/media/WebCertificate.jpg": "/static/media/WebCertificate.e659bd53b06f3768f551.jpg",
+    "static/media/ASPNET.png": "/static/media/ASPNET.509d1fdc55eb3e05bf4a.png",
     "static/media/AnimationCertificate.png": "/static/media/AnimationCertificate.3b1bae533d0edc0e7fe8.png",
     "static/media/UnityCertificate.png": "/static/media/UnityCertificate.af7fa26b5c2c4e737b20.png",
     "static/media/Services.jpg": "/static/media/Services.84ed76c8ff821d86cf1e.jpg",
-    "static/media/AliShahidiResume.pdf": "/static/media/AliShahidiResume.f53d86f730232d89aae0.pdf",
+    "static/media/AliShahidiResume.pdf": "/static/media/AliShahidiResume.3a99ac2686454ea597bc.pdf",
     "index.html": "/index.html",
     "main.f96f07a4.css.map": "/static/css/main.f96f07a4.css.map",
-    "main.27ccea9b.js.map": "/static/js/main.27ccea9b.js.map"
+    "main.066dc021.js.map": "/static/js/main.066dc021.js.map"
   },
   "entrypoints": [
     "static/css/main.f96f07a4.css",
-    "static/js/main.27ccea9b.js"
+    "static/js/main.066dc021.js"
   ]
 }
