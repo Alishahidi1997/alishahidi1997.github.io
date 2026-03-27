@@ -21,7 +21,7 @@ function AboutMe() {
     My expertise spans <strong>AI-driven gameplay systems</strong>, <strong>GPT-powered avatars</strong>, <strong>real-time data pipelines</strong>, and <strong>cross-platform optimization</strong>. I’ve extended engine functionality through <strong>custom plugins</strong>, <strong>Control Rig</strong>, <strong>PCG</strong>, and <strong>Editor Utility Widgets</strong>, while also designing reusable frameworks to streamline development across PC, mobile, and VR.
 </p>
 <p>
-    I’ve contributed to high-impact projects at <strong>ETHEREAL Research Group</strong>, <strong>Telus</strong>, <strong>ELIXR</strong>, and <strong>Illumia</strong>—leading assistive XR research, developing commercial AR/VR solutions, and delivering polished applications with measurable performance improvements.
+    I’ve contributed to high-impact projects at <strong>ETHEREAL Research Group</strong>, <strong>Telus</strong>, <strong>ELIXR</strong>, and <strong>Illumia</strong>, leading assistive XR research, developing commercial AR/VR solutions, and delivering polished applications with measurable performance improvements.
 </p>
 <p>I hold certifications in:</p>
 <ul>
