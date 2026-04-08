@@ -29,7 +29,7 @@ function AboutMe() {
             I bridge the gap between backend stability and immersive frontend experiences.
         </p>
 
-        <p style={{ fontWeight: 'bold', color: '#4ba1da', marginTop: '1.5rem' }}>Core Competencies:</p>
+        <p style={{ fontWeight: 'bold', color: '#b6babd', marginTop: '1.5rem' }}>Core Competencies:</p>
         <ul style={{ listStyleType: 'none', paddingLeft: '0' }}>
             <li>🛠️ <strong>Backend & Cloud:</strong> ASP.NET Core, JWT Architectures, Dapper, Entity Framework, Azure.</li>
             <li>🤖 <strong>AI & Automation:</strong> RAG Pipelines (Llama 3/Ollama), Multimodal Inference, GPT-driven Systems.</li>
@@ -37,7 +37,7 @@ function AboutMe() {
             <li>⚡ <strong>Performance:</strong> System Profiling, GPU Instancing, Batching, and API Optimization.</li>
         </ul>
 
-        <p style={{ fontWeight: 'bold', color: '#4ba1da', marginTop: '1.5rem' }}>Professional Credentials:</p>
+        <p style={{ fontWeight: 'bold', color: '#b6babd', marginTop: '1.5rem' }}>Professional Credentials:</p>
         <ul className="list-unstyled">
             <li>🎓 <strong>Master of Software Engineering</strong> — University of Calgary (GPA: 4.0/4.0)</li>
             <li>📜 <strong>Advanced .NET & SQL Systems</strong> — Specialized Certification (2026)</li>
