@@ -5,7 +5,7 @@ import SpaceAttack from "../Assets/Portfolio/SpaceAttackDemo.gif";
 import RocketBoost from "../Assets/Portfolio/RocketBoost.gif";
 import ServiceApp from "../Assets/Portfolio/Services.jpg";
 import RealmRush from "../Assets/Portfolio/RealmRush.gif";
-import DatingApp from "../Assets/Portfolio/DatingAppAPI.png";
+import SocialNetworkingAPI from "../Assets/Portfolio/SocialNetworkingAPI.png";
 import poly from "../Assets/Portfolio/Poly.gif";
 import sim from "../Assets/Portfolio/Sim.png";
 import SpaceFlight from "../Assets/Portfolio/SpaceFlight.gif";
@@ -19,9 +19,9 @@ const data =
             githubLink: "https://github.com/Alishahidi1997/Dating-APP/tree/main"
         }, 
          {
-            image: DatingApp,
-            name: "DatingApp - API", 
-            githubLink: "https://github.com/Alishahidi1997/Dating-APP/tree/main"
+            image: SocialNetworkingAPI,
+            name: "Social Networking API", 
+            githubLink: "https://github.com/Alishahidi1997/Social-Networking-API"
         }, 
         {
             image: ServiceApp,
