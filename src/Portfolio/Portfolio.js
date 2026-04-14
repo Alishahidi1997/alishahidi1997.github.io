@@ -16,7 +16,7 @@ const data =
         {
             image: sim,
             name: "Civilization Simulator (Built with AI + Manual Refinement)", 
-            githubLink: "https://github.com/Alishahidi1997/Dating-APP/tree/main"
+            githubLink: "https://github.com/Alishahidi1997/Community-Sim"
         }, 
          {
             image: SocialNetworkingAPI,
