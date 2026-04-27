@@ -24,7 +24,7 @@ function AboutMe() {
         <ul style={{ listStyleType: 'none', paddingLeft: '0' }}>
             <li>🔐 <strong>Social Networking API:</strong> Built REST APIs in ASP.NET Core with JWT auth, role-based access, Dapper, and Entity Framework.</li>
             <li>☕ <strong>Coffee Shop Simulation (ETHEREAL):</strong> Connected Unity + .NET backend with GPT dialogue and ElevenLabs voice for adaptive NPC interaction.</li>
-            <li>🧠 <strong>Multi-Modal Behaviour Analysis:</strong> Implemented Azure-based Python pipelines for real-time vision/audio/text processing.</li>
+            <li>🧠 <strong>Multi-Modal Behaviour Analysis:</strong> Implemented Python pipelines for real-time vision/audio/text processing.</li>
             <li>🎙️ <strong>ATC Simulation (ELIXR & Illumia):</strong> Developed RAG + speech-to-action workflows to reduce trainee manual workload.</li>
         </ul>
 
@@ -33,7 +33,7 @@ function AboutMe() {
             <li><strong>Languages:</strong> C#, Python, JavaScript, SQL, C/C++</li>
             <li><strong>Backend:</strong> ASP.NET Core, MVC, REST APIs, JWT, Dapper, Entity Framework</li>
             <li><strong>XR/Realtime:</strong> Unity, NetCode Multiplayer, Meta Quest SDK, Spatial Anchors, WebXR</li>
-            <li><strong>AI/Infra:</strong> RAG pipelines, Llama 3, Ollama, OpenAI APIs, Azure, Docker, Git</li>
+            <li><strong>AI/Infra:</strong> RAG pipelines, Llama 3, Ollama, OpenAI APIs, Docker, Git, Agent</li>
         </ul>
 
         <p className="mt-4" style={{ fontStyle: 'italic' }}>
