@@ -30,8 +30,8 @@ function AboutMe() {
                 </p>
 
                 <p>
-                    At <strong>ELIXR &amp; Illumia</strong>, shipped XR applications and LLM-powered systems—agent-based simulators
-                    and retrieval pipelines—with emphasis on runtime performance and scalable backend integration.
+                    At <strong>ELIXR &amp; Illumia</strong>, shipped XR applications and LLM-powered systems agent-based simulators
+                    and retrieval pipelines; with emphasis on runtime performance and scalable backend integration.
                 </p>
 
                 <p>
@@ -40,7 +40,7 @@ function AboutMe() {
                 </p>
 
                 <p>
-                    At the <strong>University of Calgary</strong>, served as a graduate research and teaching assistant—supporting
+                    At the <strong>University of Calgary</strong>, served as a graduate research and teaching assistant-supporting
                     software engineering courses and building research prototypes for assistive technology.
                 </p>
 
@@ -54,7 +54,7 @@ function AboutMe() {
                 </p>
 
                 <p className="mt-4" style={{ fontStyle: 'italic' }}>
-                    Open to <strong>software engineering roles</strong> where I can contribute to production systems and continue
+                    Open to <strong>software engineering/developer roles</strong> where I can contribute to production systems and continue
                     growing as a backend and AI engineer.
                 </p>
             </div>
