@@ -11,8 +11,14 @@ import sim from "../Assets/Portfolio/Sim.png";
 import SpaceFlight from "../Assets/Portfolio/SpaceFlight.gif";
 import HappyBall from "../Assets/Portfolio/HappyBall.gif";
 import KeyFinder from "../Assets/Portfolio/KeyFinder.gif";
+import SmartTaskTracker from "../Assets/Portfolio/SmartAppTracker.png";
 const data = 
     [
+        {
+            image: SmartTaskTracker,
+            name: "Smart Task Tracker", 
+            githubLink: "https://github.com/Alishahidi1997/Smart-Task-Tracker"
+        }, 
         {
             image: sim,
             name: "Civilization Simulator (Built with AI + Manual Refinement)", 

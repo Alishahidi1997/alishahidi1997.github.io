@@ -12,7 +12,6 @@ function App(){
             <NavBar />
             <Information /> 
             <Portfolio />
-            <Achievment />
             <Footer />  
         </div>
     
