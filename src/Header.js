@@ -24,7 +24,6 @@ const NavBar = () => (
         <Nav className="me-auto">
           <Nav.Link href="#Information" style={{color:"white"}}>About</Nav.Link>
           <Nav.Link href="#Portfolio" style={{color:"white"}}>Portfolio</Nav.Link>
-          <Nav.Link href="#Achievment" style={{color:"white"}}>Certificates</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Container>
