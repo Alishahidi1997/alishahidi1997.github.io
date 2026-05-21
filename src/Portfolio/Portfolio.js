@@ -16,7 +16,7 @@ const data =
     [
         {
             image: SmartTaskTracker,
-            name: "Smart Task Tracker (in development)", 
+            name: "Smart Task Tracker", 
             githubLink: "https://github.com/Alishahidi1997/Smart-Task-Tracker"
         }, 
         {
